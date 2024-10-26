@@ -66,8 +66,8 @@ Stop Time	2023-03-19 15:37
 
 | Metric                   | Count
 | ------------------------ | -----
-| SecurityEvent            | 9789
-| Syslog                   | 50
+| SecurityEvent            | 408
+| Syslog                   | 0
 | SecurityAlert            | 0
 | SecurityIncident         | 0
 | AzureNetworkAnalytics_CL | 0
